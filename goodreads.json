@@ -1,0 +1,23 @@
+{
+  "id": "long",
+  "isbn": "long",
+  "name": "string",
+  "authors":["string"],
+  "language": "string",
+  "description": "string",
+  "pages": "int",
+  "publisher": "string",
+  "publish_date": "date(YYYY-MM-DD)",
+  "review_count": "int",
+  "text_review_count": "int",
+  "rating":{
+    "distribution":{
+      "1": "int",
+      "2": "int",
+      "3": "int",
+      "4": "int",
+      "5": "int"
+    },
+    "stars": "double"
+  }
+}
