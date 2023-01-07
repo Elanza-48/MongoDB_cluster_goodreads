@@ -1,5 +1,5 @@
 ## About
-This is a sample setup of mongoDB cluster for storing goodread book records of 1 million.
+This is a sample setup of mongoDB cluster for storing [goodread](https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m?select=book1-100k.csv) book records of 1 million (700k-1700k).
 The dataset has been acquired from kaggle open datasets repository, and will be used for Elastic search analytics.
 
 ---
